@@ -1,0 +1,304 @@
+id: a9fc9faa39ab4fcb90a8944fdcf40f40
+annotation_type: index
+revision: '00001'
+annotations:
+  b519d730f29745daa7f91c9a6c5e8b99:
+    work_id: W34518451
+    span:
+      vol: CIII_Conclusion
+      start: 0
+      end: 1829
+  4f4a4b7768a243d8bb1ddf0775802d7a:
+    work_id: WE88B48C2
+    span:
+      vol: CIII_Dependent arising
+      start: 0
+      end: 917
+  43bbbeb1e8ec451d8e8031b5db14f538:
+    work_id: W2920F011
+    span:
+      vol: CIII_Mind-only
+      start: 0
+      end: 881
+  a5b57266eda5447ab8524d5f7303d12f:
+    work_id: W61169441
+    span:
+      vol: CIII_Production from both
+      start: 0
+      end: 201
+  acfdac9ac9424b36819f149a9a3b3d84:
+    work_id: W154CD11D
+    span:
+      vol: CIII_Self of phenomena
+      start: 0
+      end: 91
+  ab57b54349264b6d94ff36f312deb217:
+    work_id: W07474478
+    span:
+      vol: CIII_The two truths
+      start: 0
+      end: 1229
+  3a9fe38ce2ef46dab588180c01c5cc8a:
+    work_id: WFBB53A58
+    span:
+      vol: CIII_Verse 6.1-10
+      start: 0
+      end: 1776
+  8d3947ecf69f4fac8f8eea6203bab95b:
+    work_id: W6C363071
+    span:
+      vol: CIII_Verse 6.101-110
+      start: 0
+      end: 1842
+  cbb1b21bb2664d7ea5e0558407f2b46d:
+    work_id: W89ECD048
+    span:
+      vol: CIII_Verse 6.11-20
+      start: 0
+      end: 1817
+  3e271f5573704736be21847f778ce19d:
+    work_id: W47FFA808
+    span:
+      vol: CIII_Verse 6.110-120
+      start: 0
+      end: 1526
+  be01315a8b83481fa92cff1da1aa2da2:
+    work_id: WD5F926DD
+    span:
+      vol: CIII_Verse 6.121-130
+      start: 0
+      end: 1513
+  c1d28e83fae04d5eafcb68895074ada2:
+    work_id: W3F3D113D
+    span:
+      vol: CIII_Verse 6.131-140
+      start: 0
+      end: 1544
+  9129283a47894b4a81a028b95e934ca0:
+    work_id: W60FA8A01
+    span:
+      vol: CIII_Verse 6.141-150
+      start: 0
+      end: 1557
+  41d428eb582647fcaab09357659bd725:
+    work_id: WDA390838
+    span:
+      vol: CIII_Verse 6.151-160
+      start: 0
+      end: 1500
+  d690e6836de94990af4277ca17f39def:
+    work_id: W7B05A26E
+    span:
+      vol: CIII_Verse 6.161-170
+      start: 0
+      end: 1964
+  9df2774eabd6418ab19e7151b43f79dc:
+    work_id: WAA4A7746
+    span:
+      vol: CIII_Verse 6.171-180
+      start: 0
+      end: 1974
+  7c78593a88474c92b3bc9915d3effb97:
+    work_id: WA6D8A38E
+    span:
+      vol: CIII_Verse 6.181-190
+      start: 0
+      end: 1254
+  c26bc3d513db47049c6e8d5ebb7292f9:
+    work_id: W7343BC8C
+    span:
+      vol: CIII_Verse 6.191-200
+      start: 0
+      end: 1166
+  b6a57320076244ef82a6f3cace13b1ef:
+    work_id: W1714E98A
+    span:
+      vol: CIII_Verse 6.201-210
+      start: 0
+      end: 1230
+  771dfdceb2554d3fae4ba2292c8129f2:
+    work_id: W49C12179
+    span:
+      vol: CIII_Verse 6.21-30
+      start: 0
+      end: 609
+  be4f4d5047864920aca85bc8710a9f88:
+    work_id: WCAAE969C
+    span:
+      vol: CIII_Verse 6.211-220
+      start: 0
+      end: 1187
+  f75f8cd26e3a4669ba5359230964d68b:
+    work_id: W4B851F81
+    span:
+      vol: CIII_Verse 6.221-226
+      start: 0
+      end: 2182
+  6769fccc66404c0fa0c590daba5afe4d:
+    work_id: W93BD79D9
+    span:
+      vol: CIII_Verse 6.31-40
+      start: 0
+      end: 1517
+  ff90ac8fc97e4849ab44826b4a56ae17:
+    work_id: WB1604BBB
+    span:
+      vol: CIII_Verse 6.41-50
+      start: 0
+      end: 596
+  e9c4e8169ce845b7858f3eda146a781d:
+    work_id: W3A1525D3
+    span:
+      vol: CIII_Verse 6.51-60
+      start: 0
+      end: 1418
+  96176f010b604ce88679c89c6fb6b3c3:
+    work_id: W8AEF9C8E
+    span:
+      vol: CIII_Verse 6.61-70
+      start: 0
+      end: 1549
+  d71457350d304c8d8ec2e8c107549de0:
+    work_id: W1174FF1C
+    span:
+      vol: CIII_Verse 6.71-80
+      start: 0
+      end: 1472
+  97386db2a0634146a0c89605f6e18c58:
+    work_id: WB54871C8
+    span:
+      vol: CIII_Verse 6.81-90
+      start: 0
+      end: 1553
+  7b218a6a0419424297774fc21747a702:
+    work_id: W9BE44EB5
+    span:
+      vol: CIII_Verse 6.91-100
+      start: 0
+      end: 1677
+  4885756403894adeb520659386aa56d0:
+    work_id: WAA4F8A5E
+    span:
+      vol: CII_Verse 3.1-10
+      start: 0
+      end: 1571
+  62b16755e6a14a09807142a2615153f7:
+    work_id: W47E67CA0
+    span:
+      vol: CII_Verse 3.11-13
+      start: 0
+      end: 1092
+  c037637417d941c4b75f208c6cfcc6aa:
+    work_id: WFEDA7FDF
+    span:
+      vol: CIV_Colophon
+      start: 0
+      end: 775
+  2c05c0f2882d4daa9cf5d0ca30e951d1:
+    work_id: WFFBB01B3
+    span:
+      vol: CIV_Conclusion
+      start: 0
+      end: 999
+  56d82f76ddee4124a93904158334a24f:
+    work_id: WBBA4026A
+    span:
+      vol: CIV_Verse 11.1-10
+      start: 0
+      end: 1896
+  476f9cfc1ef440e995bb7353b7aefe6f:
+    work_id: W9E13CD97
+    span:
+      vol: CIV_Verse 11.11-20
+      start: 0
+      end: 1763
+  f857f9c370f244acae6a90a18c7b53a2:
+    work_id: WD424687C
+    span:
+      vol: CIV_Verse 11.21-30
+      start: 0
+      end: 1483
+  faaa98d926244e9fb8c96a2adf9bfab7:
+    work_id: W6758824B
+    span:
+      vol: CIV_Verse 11.31-40
+      start: 0
+      end: 1863
+  8bc9f6966233440fbc69be5a832a5130:
+    work_id: WC4F32FF4
+    span:
+      vol: CIV_Verse 11.41-50
+      start: 0
+      end: 2075
+  381ef576488b4411b69c5cd0e095a1ca:
+    work_id: W2B957DD4
+    span:
+      vol: CIV_Verse 11.51-56
+      start: 0
+      end: 2060
+  f212862ddb4745f9ac6a021ac1c64643:
+    work_id: W627B3D81
+    span:
+      vol: CI_Verse 1.1-10
+      start: 0
+      end: 1755
+  fb0d697fdcdf4628a7ec301f581c7388:
+    work_id: WBB1D9052
+    span:
+      vol: CI_Verse 1.11-17
+      start: 0
+      end: 5380
+  09abc868e72d4b8ab5a5a3f0b593da38:
+    work_id: W44CD637B
+    span:
+      vol: 'Chapter 10: Dharmameghā'
+      start: 0
+      end: 291
+  8308a3054c754c8db1c5459fa7aa4408:
+    work_id: W8B476DB0
+    span:
+      vol: 'Chapter 2: Vimalā'
+      start: 0
+      end: 1571
+  808ee7ce41dd4b769180fbac80d4fdd1:
+    work_id: W469F8A91
+    span:
+      vol: 'Chapter 4: Arciṣmatī'
+      start: 0
+      end: 354
+  705e1222012c45739fee1fd51f81578e:
+    work_id: WA93C2AAC
+    span:
+      vol: 'Chapter 5: Sudurjayā'
+      start: 0
+      end: 198
+  26859c951e214916960e938ce7343285:
+    work_id: W4999D008
+    span:
+      vol: 'Chapter 7: Dūraṃgamā'
+      start: 0
+      end: 167
+  e5a15413a73845dd839ad7469237c80c:
+    work_id: W10E74B93
+    span:
+      vol: 'Chapter 8: Acalā'
+      start: 0
+      end: 593
+  e1a1d32097d04d8db2715366026aaf65:
+    work_id: W2CC34241
+    span:
+      vol: 'Chapter 9: Sādhumatī'
+      start: 0
+      end: 169
+  eb16d0b0801b4031ac5a33e235583fed:
+    work_id: WA4AE913C
+    span:
+      vol: Preface
+      start: 0
+      end: 41
+  294b822190e24240a61e6c22237a2f8d:
+    work_id: WEA733C38
+    span:
+      vol: Title
+      start: 0
+      end: 78
